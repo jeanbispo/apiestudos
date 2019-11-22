@@ -27,12 +27,16 @@
     "@adonisjs/lucid": "^6.1.3",
     "@adonisjs/validator": "^5.0.6",
     "https": "^1.0.0",
-    "mysql": "^2.17.1"
+    "mysql": "^2.17.1",
+    "url-parse": "^1.4.7"
   },
   "devDependencies": {
     "adonis": "^0.9.0"
   },
   "autoload": {
     "App": "./app"
-  }
+  },
+  "engines": {
+    "node": "8.5.0"
+}
 }
