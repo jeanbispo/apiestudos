@@ -29,7 +29,9 @@
     "https": "^1.0.0",
     "mysql": "^2.17.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "adonis": "^0.9.0"
+  },
   "autoload": {
     "App": "./app"
   }
